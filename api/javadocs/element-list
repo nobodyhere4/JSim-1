@@ -1,0 +1,7 @@
+frc.jsim.api
+frc.jsim.collision
+frc.jsim.core
+frc.jsim.dynamics
+frc.jsim.forces
+frc.jsim.material
+frc.jsim.solver
